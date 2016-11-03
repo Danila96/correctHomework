@@ -2,7 +2,7 @@ package FirstJob;
 
 import java.util.Arrays;
 
-public class Main3 {
+public class UtilMatrix {
 
     public static void main(String[] args) {
         try {

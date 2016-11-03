@@ -1,6 +1,6 @@
 package FirstJob;
 
-public class Main2 {
+public class EqualElements {
 
     public static void main(String[] args) {
         System.out.println(test());

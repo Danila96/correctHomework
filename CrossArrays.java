@@ -2,7 +2,7 @@ package FirstJob;
 
 import java.util.Arrays;
 
-public class Main4 {
+public class CrossArays {
 
     static double final EPS = 0.00001;
 
